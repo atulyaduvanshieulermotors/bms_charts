@@ -1,0 +1,40 @@
+Timestamp: 1648564085.460366        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564087.458755        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564089.456966        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564091.454949        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564093.452700        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564095.450610        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564097.448396        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564099.446267        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564101.444034        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564103.441782        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564105.439621        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564107.437316        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564109.434858        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564111.432907        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564113.431044        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564115.429174        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564117.427384        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564119.425486        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564121.423886        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564123.422170        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564125.420592        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564127.418898        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564129.417161        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564131.415475        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+Timestamp: 1648564133.413772        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564135.412136        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564137.410662        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564139.408718        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564141.406270        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564143.404046        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564145.401714        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None
+Timestamp: 1648564147.399185        ID: 07a0    S Rx                DL:  8    01 00 06 02 01 76 02 08     Channel: can0
+None

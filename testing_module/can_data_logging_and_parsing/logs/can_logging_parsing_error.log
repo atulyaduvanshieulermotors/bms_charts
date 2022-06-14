@@ -1,0 +1,758 @@
+2022-05-23 18:02:30,925 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - aec1e822-14b3-4e8d-b10d-54584790e126 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 57, in log_can_data
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-23 19:28:21,325 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,325 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,325 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,326 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,326 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,327 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,327 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,327 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,328 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,328 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,328 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,329 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,329 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,329 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,330 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,330 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,330 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,331 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,331 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,332 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,332 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,332 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,333 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,333 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,333 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,334 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,334 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,334 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,335 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,336 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,337 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-23 19:28:21,337 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,947 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,947 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,948 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,948 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,949 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,949 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,950 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,950 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,951 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,951 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,952 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,952 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,953 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,953 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,954 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,954 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,954 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,955 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,955 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,956 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,956 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,956 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,957 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,957 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,957 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,958 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,958 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,958 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,958 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,959 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,959 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,959 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,959 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,960 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,960 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,960 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,960 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,960 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,961 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,961 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,961 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,961 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,961 ERROR - LogGenerationFile: stark_parser - Line Number: 207 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,962 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 15:36:24,962 ERROR - LogGenerationFile: stark_parser - Line Number: 471 - Log:sequence item 0: expected str instance, float found
+2022-05-24 18:35:26,364 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 57, in log_can_data
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-24 18:45:21,127 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/octopus/backend/Octopus/diagnosis/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 15:32:59,375 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 15:50:45,617 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 15:54:10,284 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 16:15:12,763 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:36:33,494 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:37:25,852 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:37:49,528 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:38:09,546 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:38:35,197 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:39:38,181 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:40:06,760 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:44:43,815 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-05-30 17:44:58,077 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 20 - Log:UUID is - d5a8f8f7-2031-48a8-8446-622e4fbea719 Exception is - 
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 56, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 29, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 21, in connect_to_can
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_create.py", line 19, in connect_to_can
+    power_up_can()
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_powerup.py", line 29, in power_up_can
+    raise CANPowerUpError
+testing_module.can_module.can_exceptions.CANPowerUpError
+2022-06-13 14:16:29,574 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 60, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError
+2022-06-13 16:34:50,761 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:can only concatenate str (not "NoneType") to str
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 34, in log_can_data
+    "testing_module/can_data_logging_and_parsing/"
+TypeError: can only concatenate str (not "NoneType") to str
+2022-06-13 16:44:56,088 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:Error receiving: Network is down [Error Code 100]
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 526, in capture_message
+    cf, ancillary_data, msg_flags, addr = sock.recvmsg(
+OSError: [Errno 100] Network is down
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 45, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 42, in log_can_data
+    msg_list = read_can_data(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_read.py", line 22, in read_can_data
+    msg_list.append(can_bus.recv(timeout=1.5))
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/bus.py", line 94, in recv
+    msg, already_filtered = self._recv_internal(timeout=time_left)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 725, in _recv_internal
+    msg = capture_message(self.socket, get_channel)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 534, in capture_message
+    raise can.CanOperationError(f"Error receiving: {error.strerror}", error.errno)
+can.exceptions.CanOperationError: Error receiving: Network is down [Error Code 100]
+2022-06-13 16:44:58,153 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 24, in connect_to_can
+    can_bus = can.interface.Bus(
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interface.py", line 120, in __new__
+    bus = cls(channel, *args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 691, in __init__
+    bind_socket(self.socket, channel)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 507, in bind_socket
+    sock.bind((channel,))
+OSError: [Errno 19] No such device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 59, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 31, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 29, in connect_to_can
+    raise CANConnectionError
+testing_module.can_module.can_exceptions.CANConnectionError
+2022-06-13 16:45:47,183 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 24, in connect_to_can
+    can_bus = can.interface.Bus(
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interface.py", line 120, in __new__
+    bus = cls(channel, *args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 691, in __init__
+    bind_socket(self.socket, channel)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 507, in bind_socket
+    sock.bind((channel,))
+OSError: [Errno 19] No such device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 59, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 31, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 29, in connect_to_can
+    raise CANConnectionError
+testing_module.can_module.can_exceptions.CANConnectionError
+2022-06-13 16:54:15,667 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 24, in connect_to_can
+    can_bus = can.interface.Bus(
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interface.py", line 120, in __new__
+    bus = cls(channel, *args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 691, in __init__
+    bind_socket(self.socket, channel)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 507, in bind_socket
+    sock.bind((channel,))
+OSError: [Errno 19] No such device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 59, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 31, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 25, in get_can_connection
+    can_bus = connect_to_can()
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_create.py", line 29, in connect_to_can
+    raise CANConnectionError
+testing_module.can_module.can_exceptions.CANConnectionError
+2022-06-13 17:21:56,275 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:Error receiving: No such device [Error Code 19]
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 526, in capture_message
+    cf, ancillary_data, msg_flags, addr = sock.recvmsg(
+OSError: [Errno 19] No such device
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 45, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 42, in log_can_data
+    msg_list = read_can_data(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_read.py", line 22, in read_can_data
+    msg_list.append(can_bus.recv(timeout=1.5))
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/bus.py", line 94, in recv
+    msg, already_filtered = self._recv_internal(timeout=time_left)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 725, in _recv_internal
+    msg = capture_message(self.socket, get_channel)
+  File "/home/warmongr/projects/controller_charts/.testing_env/lib/python3.8/site-packages/can/interfaces/socketcan/socketcan.py", line 534, in capture_message
+    raise can.CanOperationError(f"Error receiving: {error.strerror}", error.errno)
+can.exceptions.CanOperationError: Error receiving: No such device [Error Code 19]
+2022-06-13 17:30:22,764 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 17:30:25,882 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 61, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError
+2022-06-13 17:35:28,045 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 61, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError
+2022-06-13 17:38:02,463 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 17:38:06,504 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 17:38:10,497 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 17:38:14,553 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 17:38:18,523 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 18:10:17,266 ERROR - LogGenerationFile: can_id_data_extract - Line Number: 43 - Log:list index out of range
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_id_data_extract.py", line 38, in extract_can_id_data
+    can_ids.append(req[3])
+IndexError: list index out of range
+2022-06-13 18:10:20,314 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 62, in log_can_data
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/controller_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError
+2022-06-13 18:52:47,659 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 62, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError
+2022-06-13 18:53:24,288 ERROR - LogGenerationFile: exception_logger_decorator - Line Number: 18 - Log:
+Traceback (most recent call last):
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 62, in log_can_data
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_data_logging_and_parsing/can_data_logging.py", line 28, in log_can_data
+    can_bus = get_can_connection()
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 21, in wrapper
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/shared/exception_logger_decorator.py", line 15, in wrapper
+    res = func(*args, **kwargs)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 33, in get_can_connection
+    raise e
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/get_can_conn.py", line 26, in get_can_connection
+    check_can_connection(can_bus)
+  File "/home/warmongr/projects/bms_charts/testing_module/can_module/can_conn_check.py", line 28, in check_can_connection
+    raise CANInternalConnectionError
+testing_module.can_module.can_exceptions.CANInternalConnectionError

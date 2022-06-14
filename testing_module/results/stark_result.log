@@ -1,0 +1,3 @@
+2022-05-23 14:51:48,692 INFO - LogGenerationFile: results_logger_decorator - Line Number: 15 - Log:Test Status - False Test Errors - Stark testing failed because we could not validate serial output data.
+2022-05-24 15:58:19,502 INFO - LogGenerationFile: results_logger_decorator - Line Number: 15 - Log:Test Status - False Test Errors - Stark testing failed because we could not validate serial output data.
+2022-05-24 16:10:40,429 INFO - LogGenerationFile: results_logger_decorator - Line Number: 15 - Log:Test Status - True Test Errors - 

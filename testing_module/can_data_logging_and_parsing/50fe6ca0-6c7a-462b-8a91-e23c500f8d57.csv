@@ -1,0 +1,1745 @@
+Name,Value
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.3
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.3
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.6
+BMS CMU1_Cell_Vtgs cell_4,4020.6
+BMS CMU1_Cell_Vtgs cell_5,4020.7
+BMS CMU1_Cell_Vtgs cell_6,4020.7
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.3
+BMS CMU1_Cell_Vtgs cell_10,4020.5
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.3
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.9
+BMS CMU2_Cell_Vtgs Cell 5,4033.6
+BMS CMU2_Cell_Vtgs Cell 6,4033.6
+BMS CMU2_Cell_Vtgs Cell 7,4033.6
+BMS CMU2_Cell_Vtgs Cell 8,4033.2
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414624.3
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414624.8
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.3
+BMS CMU1_Cell_Vtgs cell_2,4020.4
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.5
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.3
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.8
+BMS CMU2_Cell_Vtgs Cell 5,4033.5
+BMS CMU2_Cell_Vtgs Cell 6,4033.6
+BMS CMU2_Cell_Vtgs Cell 7,4033.4
+BMS CMU2_Cell_Vtgs Cell 8,4033.1
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.5
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414625.3
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414625.8
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.5
+BMS CMU1_Cell_Vtgs cell_5,4020.5
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.6
+BMS CMU2_Cell_Vtgs Cell 4,4033.0
+BMS CMU2_Cell_Vtgs Cell 5,4033.7
+BMS CMU2_Cell_Vtgs Cell 6,4033.9
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.5
+BMS CMU2_Cell_Vtgs Cell 9,4033.5
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23553.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414626.3
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414626.7
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.6
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.5
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.7
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.6
+BMS CMU2_Cell_Vtgs Cell 4,4033.2
+BMS CMU2_Cell_Vtgs Cell 5,4033.7
+BMS CMU2_Cell_Vtgs Cell 6,4033.8
+BMS CMU2_Cell_Vtgs Cell 7,4033.6
+BMS CMU2_Cell_Vtgs Cell 8,4033.6
+BMS CMU2_Cell_Vtgs Cell 9,4033.6
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414627.2
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414627.7
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS Balancing Limit,4030.1
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.6
+BMS CMU1_Cell_Vtgs cell_4,4020.6
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.1
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.3
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.8
+BMS CMU2_Cell_Vtgs Cell 5,4033.5
+BMS CMU2_Cell_Vtgs Cell 6,4033.7
+BMS CMU2_Cell_Vtgs Cell 7,4033.4
+BMS CMU2_Cell_Vtgs Cell 8,4033.1
+BMS CMU2_Cell_Vtgs Cell 9,4033.3
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414628.2
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,1.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414628.7
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS Balancing Limit,4030.1
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.2
+BMS CMU1_Cell_Vtgs cell_2,4020.6
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.1
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.8
+BMS CMU2_Cell_Vtgs Cell 5,4033.4
+BMS CMU2_Cell_Vtgs Cell 6,4033.5
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.1
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.1
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414629.1
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414629.6
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS Balancing Limit,4030.1
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.2
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.7
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.1
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.2
+BMS CMU2_Cell_Vtgs Cell 4,4032.9
+BMS CMU2_Cell_Vtgs Cell 5,4033.5
+BMS CMU2_Cell_Vtgs Cell 6,4033.5
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.2
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.1
+BMS CMU2_Cell_Vtgs Cell 12,0.1
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414630.1
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,1.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414630.6
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.7
+BMS CMU2_Cell_Vtgs Cell 4,4033.1
+BMS CMU2_Cell_Vtgs Cell 5,4033.9
+BMS CMU2_Cell_Vtgs Cell 6,4033.9
+BMS CMU2_Cell_Vtgs Cell 7,4033.6
+BMS CMU2_Cell_Vtgs Cell 8,4033.5
+BMS CMU2_Cell_Vtgs Cell 9,4033.6
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23553.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414631.0
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414631.5
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.6
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.3
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.6
+BMS CMU2_Cell_Vtgs Cell 4,4032.9
+BMS CMU2_Cell_Vtgs Cell 5,4033.7
+BMS CMU2_Cell_Vtgs Cell 6,4033.7
+BMS CMU2_Cell_Vtgs Cell 7,4033.4
+BMS CMU2_Cell_Vtgs Cell 8,4033.4
+BMS CMU2_Cell_Vtgs Cell 9,4033.5
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414632.0
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414632.5
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,1.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.2
+BMS CMU1_Cell_Vtgs cell_2,4020.4
+BMS CMU1_Cell_Vtgs cell_3,4020.4
+BMS CMU1_Cell_Vtgs cell_4,4020.5
+BMS CMU1_Cell_Vtgs cell_5,4020.5
+BMS CMU1_Cell_Vtgs cell_6,4020.7
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.4
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.7
+BMS CMU2_Cell_Vtgs Cell 5,4033.4
+BMS CMU2_Cell_Vtgs Cell 6,4033.6
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.1
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.5
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414633.0
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414633.5
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.4
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.5
+BMS CMU1_Cell_Vtgs cell_5,4020.7
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.4
+BMS CMU1_Cell_Vtgs cell_10,4020.5
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.4
+BMS CMU2_Cell_Vtgs Cell 4,4032.8
+BMS CMU2_Cell_Vtgs Cell 5,4033.5
+BMS CMU2_Cell_Vtgs Cell 6,4033.7
+BMS CMU2_Cell_Vtgs Cell 7,4033.6
+BMS CMU2_Cell_Vtgs Cell 8,4033.2
+BMS CMU2_Cell_Vtgs Cell 9,4033.3
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414633.9
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414634.4
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65535.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.3
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.4
+BMS CMU1_Cell_Vtgs cell_4,4020.4
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.5
+BMS CMU2_Cell_Vtgs Cell 4,4033.1
+BMS CMU2_Cell_Vtgs Cell 5,4033.8
+BMS CMU2_Cell_Vtgs Cell 6,4033.9
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.5
+BMS CMU2_Cell_Vtgs Cell 9,4033.5
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23553.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Number_of_Active_Errors,0.0
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414634.9
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,2.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414635.4
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65535.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.3
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.4
+BMS CMU1_Cell_Vtgs cell_4,4020.3
+BMS CMU1_Cell_Vtgs cell_5,4020.5
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.4
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.4
+BMS CMU2_Cell_Vtgs Cell 2,4033.5
+BMS CMU2_Cell_Vtgs Cell 3,4033.7
+BMS CMU2_Cell_Vtgs Cell 4,4033.1
+BMS CMU2_Cell_Vtgs Cell 5,4033.6
+BMS CMU2_Cell_Vtgs Cell 6,4033.8
+BMS CMU2_Cell_Vtgs Cell 7,4033.5
+BMS CMU2_Cell_Vtgs Cell 8,4033.5
+BMS CMU2_Cell_Vtgs Cell 9,4033.6
+BMS CMU2_Cell_Vtgs Cell 10,4033.6
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414635.9
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414636.3
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,3.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+BMS Balancing Limit,4030.2
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.4
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.3
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.5
+BMS CMU1_Cell_Vtgs cell_7,4020.4
+BMS CMU1_Cell_Vtgs cell_8,4020.5
+BMS CMU1_Cell_Vtgs cell_9,4020.2
+BMS CMU1_Cell_Vtgs cell_10,4020.3
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.6
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.7
+BMS CMU2_Cell_Vtgs Cell 5,4033.6
+BMS CMU2_Cell_Vtgs Cell 6,4033.7
+BMS CMU2_Cell_Vtgs Cell 7,4033.4
+BMS CMU2_Cell_Vtgs Cell 8,4033.2
+BMS CMU2_Cell_Vtgs Cell 9,4033.2
+BMS CMU2_Cell_Vtgs Cell 10,4033.7
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414636.8
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414637.3
+Controller ControllerCurrentRMS,2.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,65534.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Controller AccelerationRate,0.0
+Controller AccelerationReleaseRate,0.0
+Controller BrakeRate,0.0
+Controller DriveCurrentLimit,255.0
+Controller RegenCurrentLimit,255.0
+Controller BrakeCurrentLimit,0.0
+Controller RegenOff,1
+Controller ControllerResetCANBaudRate,1.0
+Device_id_VCU,1.0
+Version_Major,0.0
+Version_Minor,6.0
+Patch,2.0
+Build_Type_and_Production_Build,1.0
+BMS Balancing Limit,4030.1
+BMS Pre charge Active,0.0
+BMS Balancing active,1.0
+BMS Pack I Master,42949073.1
+BMS Pack_Q_SOC_Trimmed,85.7
+BMS SOH,95.4
+BMS BMSStatus,3.0
+BMS FullyChargeFlag,False
+BMS Pack_V_Sum_of_Cells,80.5
+BMS CMU1_Cell_Vtgs cell_1,4020.3
+BMS CMU1_Cell_Vtgs cell_2,4020.5
+BMS CMU1_Cell_Vtgs cell_3,4020.5
+BMS CMU1_Cell_Vtgs cell_4,4020.6
+BMS CMU1_Cell_Vtgs cell_5,4020.6
+BMS CMU1_Cell_Vtgs cell_6,4020.6
+BMS CMU1_Cell_Vtgs cell_7,4020.5
+BMS CMU1_Cell_Vtgs cell_8,4020.3
+BMS CMU1_Cell_Vtgs cell_9,4020.1
+BMS CMU1_Cell_Vtgs cell_10,4020.5
+BMS CMU1_Cell_Vtgs cell_11,0.0
+BMS CMU1_Cell_Vtgs cell_12,0.0
+BMS CMU2_Cell_Vtgs Cell 1,4033.5
+BMS CMU2_Cell_Vtgs Cell 2,4033.2
+BMS CMU2_Cell_Vtgs Cell 3,4033.3
+BMS CMU2_Cell_Vtgs Cell 4,4032.9
+BMS CMU2_Cell_Vtgs Cell 5,4033.6
+BMS CMU2_Cell_Vtgs Cell 6,4033.7
+BMS CMU2_Cell_Vtgs Cell 7,4033.4
+BMS CMU2_Cell_Vtgs Cell 8,4033.1
+BMS CMU2_Cell_Vtgs Cell 9,4033.3
+BMS CMU2_Cell_Vtgs Cell 10,4033.8
+BMS CMU2_Cell_Vtgs Cell 11,0.0
+BMS CMU2_Cell_Vtgs Cell 12,0.0
+Ch_V,23555.0
+Ch_C,23809.0
+Ch_S,0.0
+BMS PACK_Q_DESIGN,172.8
+BMS PACK_Q_FULL,164.8
+BMS CMU1_CELL_BITMASK,1282.0
+BMS CMU2_CELL_BITMASK,16945.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414637.8
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
+Number_of_Active_Errors,0.0
+Sum_of_error_since_boot,0.0
+Controller MotorTemp,24.0
+Controller Controller_Temp,52.0
+Controller SOC,0.0
+Controller Batt_Discharge_Current_Rate,0.0
+Controller Odometer,1975.8
+Controller Vehicle_Status,0.0
+Controller AssistLevelGear,0.0
+Controller AlarmFault,0.0
+Controller SpeedLowHigh,0.0
+Controller TripLowHigh,0.0
+Controller ThrottleCommand,0.0
+Controller ThrottleMultiplier,100.0
+Controller MappedThrottle,0.0
+Controller ThrottlePotentiometer,1.0
+Controller BrakeCommand,0.0
+Controller MappedBrake,0.0
+Controller Potential2Row,21.7
+Controller BatteryCapacityVoltage,80.0
+Controller BatteryKeyswitchVoltage,80.0
+Controller MotorRPM,0.0
+Controller ControllerMasterTimer,1414638.3
+Controller ControllerCurrentRMS,3.0
+Controller ControllerModulationDepth,0.0
+Controller ControllerFrequency,0.0
+Controller ControllerMainState,5.0
+Controller MotorTorqueEstimated,0.0
+Controller BatteryPowerConsumed,0.0
+Controller BatteryEnergyConsumed,0.0
+Controller VehiclePowerMode,0.0
+Controller ControllerSerialNumber,38388.0
+Controller VCLVersion,1.0
+Controller VCLBuildNumber,7.0
+Controller OSVersion,31.0
+Controller OSBuildNumber,78.0
